@@ -1,7 +1,7 @@
 import java.util.*;
 import java.lang.*;
 import java.util.Random;
-
+		hii parth
 class Casino
 {
 	public static void main(String args[])
