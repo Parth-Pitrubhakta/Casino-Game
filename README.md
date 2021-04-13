@@ -1,2 +1,2 @@
 # Casino-Game
-This is my java mini project
+This is my first java project.
